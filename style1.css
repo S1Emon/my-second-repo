@@ -65,3 +65,43 @@
     text-align: center;
     margin: 15px 0 15px;
 }
+form{
+    background-color: blueviolet;
+}
+.tour{
+    background-color: cornflowerblue;
+    padding: 5px;
+    margin: 10px 0px;
+    border: 3px dashed gray;
+    color: white;
+}
+.author-name{
+    color: darkred;
+}
+#h3{
+    color: lightgoldenrodyellow;
+    text-align: center;
+    font-family: arial;
+    font-size: 25px;
+    background-color: indigo;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.tour small{
+    color:indigo;
+}
+.box-styling{
+    background-color: lightslategrey;
+    border: 20px solid yellow;
+    margin: 20px 0;
+    text-align: center;
+    border-radius: 12px ;
+    padding: 10px;
+}
+.box-styling h2{
+    color: white;
+    border: 2px solid black;
+    width: 15%;
+    margin: 0 auto;
+}
