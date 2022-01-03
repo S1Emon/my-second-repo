@@ -1,0 +1,67 @@
+.head{
+    padding: 10px;
+    font-family: arial;
+    text-align: center;
+}
+.head h1{
+    color: rgba(65, 105, 225, 0.651);
+    background-color:yellow ;
+    width: 30%;
+    margin: 0 auto;
+}
+.head h2{
+    color: violet;
+    background-color:forestgreen;
+    width: 40%;
+}
+.head h3{
+    color: white;
+    background-color: black;
+    width: 50%;
+}
+.head h4{
+    color: burlywood;
+    background-color: cadetblue;
+}
+.head h5{
+    color: white;
+    background-color: gray;
+}
+.head h6{
+    color: red;
+    background-color: green;
+}
+.paragraph{
+    background-color: lightblue ;
+    text-align: justify;
+    color:brown ;
+    border: 1px solid black;
+}
+.p1 {
+    padding: 8px;
+}
+.p2{
+    padding: 8px;
+}
+.a-img{
+    background-color: rgba(144, 238, 144, 0.363);
+}
+.a-img a{
+    text-decoration: none;
+    border: 2px solid red;
+    color: white;
+    background-color: darkgreen;
+    font-family: Helvetica;
+    padding: 5px 10px;
+    border-radius: 8px;
+    transition: .5s ease;
+}
+.a-img a:hover{
+    box-shadow:2px 4px 5px darkred;
+    cursor: pointer;
+}
+.a-img img{
+    display: block;
+    text-align: center;
+    margin: 15px 0 15px;
+}
